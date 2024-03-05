@@ -13,15 +13,13 @@ Project # [Analysis of Hacker News Blog Posts](/sample_page)
 View the github page  [here](https://github.com/gfulham/Analysis-of-Hacker-News-posts-) 
 or the final deliverable notebook  [here](https://github.com/gfulham/Analysis-of-Hacker-News-posts-/blob/main/notebooks/Hacker%20News%20posts%20analysis.ipynb)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 Project # [Analysis of a Clothing Retailers Cusomter Data ](/sample_page)
 
 View the github page  [here](https://github.com/gfulham/Analyzing-Customer-Data-from-an-Online-Clothing-Retailer) 
 or the final deliverable notebook  [here](https://github.com/gfulham/Analyzing-Customer-Data-from-an-Online-Clothing-Retailer/blob/master/notebooks/linear_regression_project_with_online_clothing_retailer.ipynb)
 
-<img src="images/customer_data_online_retailer_combine_images.jpg.jpg?raw=true"/>
+<img src="images/customer_data_online_retailer_combine_images.jpg?raw=true"/>
 
 ---
 Project # [Best Ad Revenue Targets EDA](/sample_page)
@@ -36,7 +34,6 @@ Project # [Covid Data Exporation in SQL](/sample_page)
 View the github page  [here](https://github.com/gfulham/Covid-data-exploration-with-SQL) 
 or the sql code [here](https://github.com/gfulham/Covid-data-exploration-with-SQL/blob/main/SQL_Code.sql)
 
-<img src="images/survey-answer-order-bias.png?raw=true"/>
 ---
 
 Project # [Does Fandango Inflate their Movie Ratings](/pdf/sample_presentation.pdf)
@@ -92,18 +89,13 @@ or the final deliverable notebook  [here](https://github.com/gfulham/Visualizing
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
----
-### Machine Learning Projects
 
-- [Project 1 Title](https://github.com/gfulham/Best-Ad-Revenue-Targets-for-Mobile-Apps/blob/main/notebooks/Ad_revenue_for_moblie_apps.ipynb)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+### Machine Learning Projects
 
 ---
 
 ### Deep Learning Projects
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
