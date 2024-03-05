@@ -1,46 +1,90 @@
-## Projects
+## Projects are Divided into three sections
+ - #### Data Cleaning and EDA  
+ - #### Machine Learing 
+ - #### Deep Learning
+
 
 ---
 
 ### Data Cleaning and EDA Projects 
 
-[Survey Data Cleaning](/sample_page)
+Project # [Analysis of Hacker News Blog Posts](/sample_page)
 
-To view the project github page click [here](https://github.com/gfulham/survey_monkey) 
+View the github page  [here](https://github.com/gfulham/Analysis-of-Hacker-News-posts-) 
+or the final deliverable notebook  [here](https://github.com/gfulham/Analysis-of-Hacker-News-posts-/blob/main/notebooks/Hacker%20News%20posts%20analysis.ipynb)
 
-To view the final deliverable notebook click [here](https://nbviewer.jupyter.org/github/gfulham/survey_monkey/blob/main/deliver/2021-03-29-GTF-survey-monkey-final-deliver.ipynb)
-
-- Cleaned anonymous data collected by Survey Monkey
-- Created a script that runs through Survey Data and cleans it for analysis. 
-- Data delivered via excel with over 17000 entries from 198 respondents. 
-- Created visualizations to examine question order bias.
-<img src="images/survey-answer-order-bias.png?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Does Fandango Inflate their Movie Ratings](/pdf/sample_presentation.pdf)
-To view the project github page click [here](https://github.com/gfulham/Fandango-movie-ratings) 
+Project # [Analysis of a Clothing Retailers Cusomter Data ](/sample_page)
 
-In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest. He published his analysis in this article. Hickey found that there's a significant discrepancy between the number of stars displayed for movie ratings and the actual rating,
+View the github page  [here](https://github.com/gfulham/Analyzing-Customer-Data-from-an-Online-Clothing-Retailer) 
+or the final deliverable notebook  [here](https://github.com/gfulham/Analyzing-Customer-Data-from-an-Online-Clothing-Retailer/blob/master/notebooks/linear_regression_project_with_online_clothing_retailer.ipynb)
 
-The goal of this project is to analyze more recent movie ratings data to determine whether there has been any change in Fandango's rating system after Hickey's analysis in 2015.
+<img src="images/customer_data_online_retailer_combine_images.jpg.jpg?raw=true"/>
+
+---
+Project # [Best Ad Revenue Targets EDA](/sample_page)
+
+Github [here](https://github.com/gfulham/Best-Ad-Revenue-Targets-for-Mobile-Apps/blob/main/notebooks/Ad_revenue_for_moblie_apps.ipynb)
+or final notebook [here](https://github.com/gfulham/Best-Ad-Revenue-Targets-for-Mobile-Apps/blob/main/notebooks/Ad_revenue_for_moblie_apps.ipynb)
+
+---
+
+Project # [Covid Data Exporation in SQL](/sample_page)
+
+View the github page  [here](https://github.com/gfulham/Covid-data-exploration-with-SQL) 
+or the sql code [here](https://github.com/gfulham/Covid-data-exploration-with-SQL/blob/main/SQL_Code.sql)
+
+<img src="images/survey-answer-order-bias.png?raw=true"/>
+---
+
+Project # [Does Fandango Inflate their Movie Ratings](/pdf/sample_presentation.pdf)
+
+View the project github page  [here](https://github.com/gfulham/Fandango-movie-ratings) 
+or final notebook [here](https://github.com/gfulham/Fandango-movie-ratings/blob/main/notebooks/fandango-eda.ipynb)
+
 <img src="images/Density-plot-fandango-ratings.png?raw=true"/>
 
 ---
-[Store Sales Data EDA in Python](http://example.com/)
+Project # [Electronic Store Sales EDA](http://example.com/)
 
-This analysis looks into tech product sales across the US and answers questions like:
+View the project github page  [here](https://github.com/gfulham/Exploring-electronic-store-sales-data) or notebook 
+[here](https://github.com/gfulham/Exploring-electronic-store-sales-data/gtf-electronic-store-sales-eda-final.ipynb)
 
- - Which month is the best for sales?
- - How much is earned in the top month of sales?
- - Which city sold the most products?
- - In what city should the company focus its advertising revenue?
- - What products are compliments of one another based on being sold together?
- - Which product generates the most sales? Why?
 <img src="images/product-qualtity-sales-barchart.png?raw=true"/>
 
 ---
 
-- [Ad Revenue Targets EDA](https://github.com/gfulham/Best-Ad-Revenue-Targets-for-Mobile-Apps/blob/main/notebooks/Ad_revenue_for_moblie_apps.ipynb)
+Project # [Lottery addiction statistics for app development](http://example.com/)
+
+View the project github page  [here](https://github.com/gfulham/Lottery-addiction-statistics-for-app-development) or notebook 
+[here](https://github.com/gfulham/Lottery-addiction-statistics-for-app-development/blob/main/lottery-addiction.ipynb)
+
+---
+
+Project # [Ebay Car Sales Data EDA](http://example.com/)
+
+View the project github page  [here](https://github.com/gfulham/Observations-of-cars-sales-via-ebay) or notebook 
+[here](https://github.com/gfulham/Observations-of-cars-sales-via-ebay/blob/main/Exploratory%20analysis%20of%20car%20sale%20data.ipynb)
+
+---
+
+Project # [Survey Monkey Data EDA](/sample_page)
+
+View the github page  [here](https://github.com/gfulham/survey_monkey) 
+or the final deliverable notebook  [here](https://nbviewer.jupyter.org/github/gfulham/survey_monkey/blob/main/deliver/2021-03-29-GTF-survey-monkey-final-deliver.ipynb)
+
+<img src="images/survey-answer-order-bias.png?raw=true"/>
+
+---
+
+Project # [Visualizeing Earnings by College Major](/sample_page)
+
+View the github page  [here](https://github.com/gfulham/Visualizing-earings-by-college-major) 
+or the final deliverable notebook  [here](https://github.com/gfulham/Visualizing-earings-by-college-major/blob/main/notebooks/1-gtf-earnings_by_college_majors.ipynb)
+
+---
 
 ### Additional Data Cleaning and EDA
 
@@ -63,7 +107,3 @@ This analysis looks into tech product sales across the US and answers questions 
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
