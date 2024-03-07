@@ -13,6 +13,8 @@ Project # [Analysis of Hacker News Blog Posts](/sample_page)
 View the github page  [here](https://github.com/gfulham/Analysis-of-Hacker-News-posts-) 
 or the final deliverable notebook  [here](https://github.com/gfulham/Analysis-of-Hacker-News-posts-/blob/main/notebooks/Hacker%20News%20posts%20analysis.ipynb)
 
+<img src="images/hacker_news_combine_images.jpg?raw=true"/>
+
 ---
 Project # [Analysis of a Clothing Retailers Cusomter Data ](/sample_page)
 
@@ -27,12 +29,7 @@ Project # [Best Ad Revenue Targets EDA](/sample_page)
 Github [here](https://github.com/gfulham/Best-Ad-Revenue-Targets-for-Mobile-Apps/blob/main/notebooks/Ad_revenue_for_moblie_apps.ipynb)
 or final notebook [here](https://github.com/gfulham/Best-Ad-Revenue-Targets-for-Mobile-Apps/blob/main/notebooks/Ad_revenue_for_moblie_apps.ipynb)
 
----
-
-Project # [Covid Data Exporation in SQL](/sample_page)
-
-View the github page  [here](https://github.com/gfulham/Covid-data-exploration-with-SQL) 
-or the sql code [here](https://github.com/gfulham/Covid-data-exploration-with-SQL/blob/main/SQL_Code.sql)
+<img src="images/apple_vs_andriod_combine_images.jpg?raw=true"/>
 
 ---
 
@@ -60,13 +57,6 @@ View the project github page  [here](https://github.com/gfulham/Lottery-addictio
 
 ---
 
-Project # [Ebay Car Sales Data EDA](http://example.com/)
-
-View the project github page  [here](https://github.com/gfulham/Observations-of-cars-sales-via-ebay) or notebook 
-[here](https://github.com/gfulham/Observations-of-cars-sales-via-ebay/blob/main/Exploratory%20analysis%20of%20car%20sale%20data.ipynb)
-
----
-
 Project # [Survey Monkey Data EDA](/sample_page)
 
 View the github page  [here](https://github.com/gfulham/survey_monkey) 
@@ -76,19 +66,11 @@ or the final deliverable notebook  [here](https://nbviewer.jupyter.org/github/gf
 
 ---
 
-Project # [Visualizeing Earnings by College Major](/sample_page)
-
-View the github page  [here](https://github.com/gfulham/Visualizing-earings-by-college-major) 
-or the final deliverable notebook  [here](https://github.com/gfulham/Visualizing-earings-by-college-major/blob/main/notebooks/1-gtf-earnings_by_college_majors.ipynb)
-
----
-
 ### Additional Data Cleaning and EDA
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Covid Data Exporation in SQL](https://github.com/gfulham/Covid-data-exploration-with-SQL)
+- [Visualizeing Earnings by College Major](https://github.com/gfulham/Visualizing-earings-by-college-major) 
+- [Ebay Car Sales Data EDA](https://github.com/gfulham/Observations-of-cars-sales-via-ebay)
 
 ---
 
