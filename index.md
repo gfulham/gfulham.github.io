@@ -21,7 +21,7 @@ or the final deliverable notebook  [here](https://github.com/gfulham/Analysis-of
 
 Tableau Public [here](https://public.tableau.com/app/profile/greg.fulham/viz/FantasyFootball2019PlayerUsage/Homepage)
 
-<img src="images/2019_Fantasy_player_usage.jpgraw=true"/>
+<img src="images/2019_Fantasy_player_usage.jpg?raw=true"/>
 
 ---
 
@@ -37,7 +37,7 @@ Tableau Public [here](https://public.tableau.com/app/profile/greg.fulham/viz/Obe
 
 Tableau Public [here](https://public.tableau.com/app/profile/greg.fulham/viz/CovidDataasofMarch2022/Dashboard1)
 
-<img src="images/Covid_Data_2022.PNGraw=true"/>
+<img src="images/Covid_Data_2022.PNG?raw=true"/>
 
 ---
 
@@ -79,7 +79,7 @@ View the project github page  [here](https://github.com/gfulham/Exploring-electr
 
 ### Machine Learning Projects
 
- #### Project [Analysis of Online clothing retailer using Linear Regression](/sample_page)
+#### Project [Analysis of Online clothing retailer using Linear Regression](/sample_page)
 
 View the github page  [here](https://github.com/gfulham/Analyzing-Customer-Data-from-an-Online-Clothing-Retailer) 
 or the final deliverable notebook  [here](https://github.com/gfulham/Analyzing-Customer-Data-from-an-Online-Clothing-Retailer/blob/master/notebooks/linear_regression_project_with_online_clothing_retailer.ipynb)
