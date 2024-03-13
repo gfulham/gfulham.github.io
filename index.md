@@ -16,14 +16,31 @@ or the final deliverable notebook  [here](https://github.com/gfulham/Analysis-of
 <img src="images/hacker_news_combine_images.jpg?raw=true"/>
 
 ---
-#### Project [Analysis of a Clothing Retailers Cusomter Data ](/sample_page)
 
-View the github page  [here](https://github.com/gfulham/Analyzing-Customer-Data-from-an-Online-Clothing-Retailer) 
-or the final deliverable notebook  [here](https://github.com/gfulham/Analyzing-Customer-Data-from-an-Online-Clothing-Retailer/blob/master/notebooks/linear_regression_project_with_online_clothing_retailer.ipynb)
+#### Project [Fantasy Football 2019 Player Usage](/sample_page)
 
-<img src="images/customer_data_online_retailer_combine_images.jpg?raw=true"/>
+Tableau Public [here](https://public.tableau.com/app/profile/greg.fulham/viz/FantasyFootball2019PlayerUsage/Homepage)
+
+<img src="images/2019_Fantasy_player_usage.jpgraw=true"/>
 
 ---
+
+#### Project [Obesity and Diabetes in America](/sample_page)
+
+Tableau Public [here](https://public.tableau.com/app/profile/greg.fulham/viz/ObesityInAmericabyStateandCounty/ObesityDashboard)
+
+<img src="images/Obesity_Tableau.png?raw=true"/>
+
+---
+
+#### Project [World Covid Data March 2022](/sample_page)
+
+Tableau Public [here](https://public.tableau.com/app/profile/greg.fulham/viz/CovidDataasofMarch2022/Dashboard1)
+
+<img src="images/Covid_Data_2022.PNGraw=true"/>
+
+---
+
 #### Project [Best Ad Revenue Targets EDA](/sample_page)
 
 Github [here](https://github.com/gfulham/Best-Ad-Revenue-Targets-for-Mobile-Apps/blob/main/notebooks/Ad_revenue_for_moblie_apps.ipynb)
@@ -57,9 +74,17 @@ View the project github page  [here](https://github.com/gfulham/Exploring-electr
 - [Ebay Car Sales Data EDA](https://github.com/gfulham/Observations-of-cars-sales-via-ebay)
 - [Lottery addiction statistics for app development](https://github.com/gfulham/Lottery-addiction-statistics-for-app-development)
 - [Survey Monkey Data EDA](https://github.com/gfulham/survey_monkey) 
+
 ---
 
 ### Machine Learning Projects
+
+ #### Project [Analysis of Online clothing retailer using Linear Regression](/sample_page)
+
+View the github page  [here](https://github.com/gfulham/Analyzing-Customer-Data-from-an-Online-Clothing-Retailer) 
+or the final deliverable notebook  [here](https://github.com/gfulham/Analyzing-Customer-Data-from-an-Online-Clothing-Retailer/blob/master/notebooks/linear_regression_project_with_online_clothing_retailer.ipynb)
+
+<img src="images/customer_data_online_retailer_combine_images.jpg?raw=true"/>
 
 ---
 
