@@ -77,6 +77,13 @@ View the github page  [here](https://github.com/gfulham/Analyzing-Customer-Data-
 
 ---
 
+
+### [Introduction to Statistical Learning with Python Labs](https://github.com/gfulham/ISLP)
+
+- [Chapter 3 Linear Regression with Boston Housing Dataset](https://nbviewer.org/github/gfulham/ISLP/blob/main/Ch03-linreg-lab.ipynb)
+
+---
+
 ### Deep Learning Projects
 
 
